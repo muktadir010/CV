@@ -21,7 +21,7 @@ body {
 
 .myNavbar {
     text-align: center;
-    background-color: black;
+    background-color: rgb(3, 35, 84);
     padding: 10px 30px;
     display: flex;
     justify-content: space-between;
@@ -96,10 +96,15 @@ label {
 /* footer */
 
 .footer_btn {
-    width: 100%;
+    width: 20%;
     padding: 10px;
     margin: 20px 0px;
-    background-color: gainsboro;
+    background-color: rgba(135, 205, 237, 0.987);
+    text-align: center;
+}
+
+.btn_container {
+    text-align: center;
 }
 
 .footer_link {
